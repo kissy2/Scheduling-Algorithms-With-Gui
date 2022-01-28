@@ -1,0 +1,5 @@
+Pull,1,2,5
+Short,1,3,4
+Hat,4,2,6
+Dress,2,4,8
+Jeans,0,1,4
